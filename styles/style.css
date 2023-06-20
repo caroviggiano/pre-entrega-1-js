@@ -1,13 +1,12 @@
 body{
-    /* background-color: rgb(137, 95, 155); */
-    background-image: url(../img/fondo-fdm.jpg)
+    background-image: url(../img/fondo-fdm.jpg) 
     
 }
 h1{
     display: flex;
     justify-content: center;
     font-family: 'Tilt Prism', cursive;
-    font-size: 30px;
+    font-size: 40px;
 }
 h2{
     background-color: rgb(92, 85, 141);
@@ -22,6 +21,7 @@ h3{
     justify-content: center;
     font-family: 'Castoro Titling', cursive;
     font-size: 20px;
+    padding: 10px;
 }
 .container{
     display: flex;
